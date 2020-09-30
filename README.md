@@ -2,7 +2,7 @@
 
 音声合成に関しては<br>
 https://colab.research.google.com/github/espnet/notebook/blob/master/tts_realtime_demo.ipynb#scrollTo=69vGlN12DqB2<br>
-こちらの内容を使用させていただきました。<br>
+こちらの内容を使用させていただきました。これをしないと最後の方の合成音声化が動作しません。<br>
 以下コピペ手順<br>
 Install → Japanese demo → Tacotron 2 → Setup
 
